@@ -1,7 +1,7 @@
 {
   "name": "Oliver-tech@1.2.8",
   "description": "I am Oliver-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/ed324d7e76a4cd50fd96b.jpg",
+  "logo": "https://telegra.ph/file/656c0c821cde4b7c3d2f7.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254710772666"
+      "value": "254758954991"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
