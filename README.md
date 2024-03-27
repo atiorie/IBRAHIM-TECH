@@ -34,6 +34,6 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
  ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://suhail-md-vtsf.onrender.com/code)***
 
 
- ***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/atiorie/IBRAHIM-TECH/tree/main)***
+ ***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/atiorie/OLIE-TECH)***
     
    
