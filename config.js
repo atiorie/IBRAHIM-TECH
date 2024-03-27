@@ -64,11 +64,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©sᵏⁱⁿᵍ ⁱᵇʳᵃʰⁱᵐ ᵐᵈ2024" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "©olie-tech-2024" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author : process.env.PACK_AUTHER|| "OLIE",
   packname: process.env.PACK_NAME || "👑",
-  botname : process.env.BOT_NAME  || " olie-𝗧𝗘𝗖𝗛",
+  botname : process.env.BOT_NAME  || " olie-tech",
   ownername:process.env.OWNER_NAME|| "It'x OLIVER",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
