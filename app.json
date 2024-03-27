@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "𝗠𝗥 Oliver",
+      "value": "𝗠𝗥 𝗢𝗟𝗜𝗩𝗘𝗥r",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "OLIVER-MD"
+      "value": "𝗢𝗟𝗜𝗩𝗘𝗥-𝗠𝗗"
     }, 
     "IMAGE": {
       "description": "Image for bot",
@@ -37,7 +37,7 @@
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Africa/Nairobi"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -61,7 +61,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "45f3e02a-ce34-4942-b45a-8e255044b0c4",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
